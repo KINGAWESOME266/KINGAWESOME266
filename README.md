@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Computer Science student at the University of Surrey
 <!--
 **KINGAWESOME266/KINGAWESOME266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
